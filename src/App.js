@@ -11,10 +11,10 @@ function App() {
 
 
     return (
-    <div className="App">
-        <Header />
-        <button onClick={onToggleButton}>toggle</button>
-    </div>
+        <div className="App">
+            <Header />
+            <button onClick={onToggleButton}>toggle</button>
+        </div>
     );
 }
 
